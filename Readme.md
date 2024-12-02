@@ -14,4 +14,3 @@ The identifier system is trained on more than 15000 images of traditional and ex
 
 #### Use case: This can be used in local mandis in villages and in Ayurvedic centers of any city to cross check and verify the actual statistics of the herbs being utilized, reduce the fake trade of herbal products.
 
-#### Further aim: We aim to enhance the accuracy to the best of the technology's potential and also to make it freely available for the public, collaborating with the Ministry of Ayush, India.
